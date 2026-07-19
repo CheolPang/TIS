@@ -1,4 +1,4 @@
-# TIS (for Web)
+# TIS (Train Information System)
 ### Roblox의 게임 중 하나인 '남청철도 | Namcheong Rail' 에서 제공하는 열차정보 API를 통해 제작한 실시간 열차정보 웹 페이지입니다.
 
 <hr>
